@@ -1,0 +1,3 @@
+[deps]
+Einsum = "b7d42ee7-0b51-5a75-98ca-779d3107e4c0"
+TensorOperations = "6aa20fa7-93e2-5fca-9bc0-fbd0db3c71a2"
